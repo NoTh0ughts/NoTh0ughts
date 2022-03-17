@@ -1,3 +1,8 @@
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="500"/>
 </div>
@@ -13,3 +18,21 @@
   <img src="https://komarev.com/ghpvc/?username=NoTh0ughts&style=flat-square&color=blue" alt="" align="center"/>
 </div>
 
+---
+
+### :man_technologist: About Me :
+  * I am in the 4th year of the university with a degree in computer science and computer technology
+  * Location - Russia, Volgograd
+  * Junior C# Backend developer
+  * Junior C# Unity developer
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<div/>
+  
+### :fire: My Stats :
