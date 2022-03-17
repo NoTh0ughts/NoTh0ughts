@@ -1,16 +1,15 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="500"/>
+</div>
 
-<!--
-**NoTh0ughts/NoTh0ughts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+  <a href="https://vk.com/noth0ughts">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
+  </a>
+   <a href="https://t.me/NoThoughts_exe">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Vk Badge"/>
+  </a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=NoTh0ughts&style=flat-square&color=blue" alt="" align="center"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
