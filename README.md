@@ -20,13 +20,13 @@
 
 ---
 
-### :man_technologist: About Me :
+### About Me :
   * I am in the 4th year of the university with a degree in computer science and computer technology
   * Location - Russia, Volgograd
   * Junior C# Backend developer
   * Junior C# Unity developer
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
