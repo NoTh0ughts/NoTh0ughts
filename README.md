@@ -41,6 +41,8 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NoTh0ughts&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NoTh0ughts&theme=dark&show_icons=true&hide_border=true" />
+<br/>
   
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoTh0ughts&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
