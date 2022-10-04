@@ -21,9 +21,9 @@
 ---
 
 ### About Me :
-  * I am in the 4th year of the university with a degree in computer science and computer technology
+  * I am in the 1st year master student of the university in computer science and computer technology
   * Location - Russia, Volgograd
-  * Junior+ C# Backend developer
+  * Junior+ C# Backend / Unity developer
 
 ### Languages and Tools :
 <div>
