@@ -24,7 +24,7 @@
   * I am in the 1st year master student of the university in computer science and computer technology
   * Location - Russia, Volgograd
   * Junior+ C# Backend / Unity developer
-
+  * My site: https://nothoughts.ru/
 ### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
