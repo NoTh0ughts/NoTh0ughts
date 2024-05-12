@@ -21,9 +21,9 @@
 ---
 
 ### About Me :
-  * I am in the 1st year master student of the university in computer science and computer technology
+  * I am in the 2st year master student of the university in computer science and computer technology
   * Location - Russia, Volgograd
-  * Junior+ C# Backend / Unity developer
+  * Junior+ - Middle C# Backend / Unity developer
   * My site: https://nothoughts.ru/
 ### Languages and Tools :
 <div>
