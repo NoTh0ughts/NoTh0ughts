@@ -21,8 +21,9 @@
 ---
 
 ### About Me :
-  * I am in the 2st year master student of the university in computer science and computer technology
+  * I am master degree of the university in computer science and computer technology (Volgograde State Technical University)
   * Location - Russia, Volgograd
+  * Currenly working in "Lukoil Technologies"
   * Junior+ - Middle C# Backend / Unity developer
   * My site: https://nothoughts.ru/
 ### Languages and Tools :
