@@ -23,8 +23,8 @@
 ### About Me :
   * I am master degree of the university in computer science and computer technology (Volgograde State Technical University)
   * Location - Russia, Volgograd
-  * Currenly working in "Lukoil Technologies"
-  * Junior+ - Middle C# Backend / Unity developer
+  * Currenly working in "KEFIR"
+  * Junior+ - Middle C# Backend / Unity developer / QA Automation Engineer
   * My site: https://nothoughts.ru/
 ### Languages and Tools :
 <div>
